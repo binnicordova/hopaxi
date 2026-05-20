@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "title": "HOPAXI | Traslado Seguro Aeropuerto Lima - Tarifa Fija $24 a Miraflores",
+    "description": "Reserve traslados seguros en el aeropuerto de Lima en menos de 20 segundos. Tarifas fijas de $24 a Miraflores, San Isidro y Barranco. Reserva por WhatsApp 24/7 y seguimiento de vuelos incluido."
+  },
+  "nav": {
+    "how_it_works": "Cómo Funciona",
+    "areas": "Zonas",
+    "faq": "FAQ",
+    "contact": "Contacto",
+    "book_whatsapp": "Reserva por WhatsApp",
+    "book_whatsapp_short": "Reservar",
+    "call": "Llamar",
+    "sms": "SMS"
+  },
+  "hero": {
+    "priority_support": "Soporte de Reserva Prioritaria",
+    "safety_standard": "Estándar de Seguridad Ejecutiva",
+    "direct_answer": "Para un traslado seguro en el aeropuerto de Lima, HOPAXI ofrece tarifas fijas desde $24 a Miraflores, San Isidro y Barranco con reserva por WhatsApp 24/7. Nuestro servicio incluye rastreo de vuelos en tiempo real, coordinación bilingüe y precios todo incluido (peajes y estacionamiento), asegurando una llegada sin estrés al Aeropuerto Jorge Chávez (LIM).",
+    "title": "Traslado Aeropuerto Lima: Seguro y Tarifa Fija $24",
+    "subtitle": "Reserve un conductor profesional en <span class=\"text-primary font-bold\">20 segundos</span> por WhatsApp. Tarifas fijas desde $24. Un coordinador. Cero estrés.",
+    "check_flat": "Tarifa Fija $24 Zonas Core",
+    "check_bilingual": "Soporte Bilingüe",
+    "check_flight": "Seguimiento de Vuelo Incluido",
+    "stat_response": "Primera respuesta",
+    "stat_response_val": "~1.2 min promedio",
+    "stat_availability": "Disponibilidad",
+    "stat_availability_val": "Despacho 24/7",
+    "stat_included": "Incluido",
+    "stat_included_val": "Peajes + estacionamiento"
+  },
+  "resources": {
+    "map_title": "Mapas del Aeropuerto",
+    "map_desc": "Nuestros coordinadores le envían un mapa personalizado del aeropuerto LIM vía WhatsApp indicando el punto exacto de encuentro en la zona de parqueo autorizada.",
+    "tips_title": "Consejos de Viaje",
+    "tips_desc": "Ignore siempre los ofrecimientos dentro del hall de llegadas. Los traslados oficiales como HOPAXI se reservan con anticipación y le esperan en puntos de seguridad designados.",
+    "tourism_title": "Turismo en Lima",
+    "tourism_desc": "Una vez en Miraflores o Barranco, recomendamos caminar por el Malecón o visitar Larcomar para disfrutar de las mejores vistas de la ciudad y una exploración segura."
+  },
+  "cta_card": {
+    "title": "Reservar por WhatsApp",
+    "subtitle": "Envíe su <strong>número de vuelo</strong> y <strong>destino</strong> para una cotización instantánea.",
+    "feat_price": "Precio Fijo",
+    "feat_support": "Soporte 24/7",
+    "feat_fees": "Sin Cargos Ocultos",
+    "btn_book": "Reservar por WhatsApp Ahora",
+    "btn_sms": "SMS",
+    "btn_call": "Llamar",
+    "response_avg": "Respuesta promedio: 1.2 min",
+    "online": "Coordinadores en Línea"
+  },
+  "steps": {
+    "title": "Llegada sin Esfuerzo en 3 Pasos",
+    "subtitle": "Pre-reservado. Pre-pagado. Sin Estrés.",
+    "step1_title": "1. Envíe Detalles",
+    "step1_desc": "Escríbanos por WhatsApp su número de vuelo y destino. Respondemos con una cotización fija en menos de 2 minutos.",
+    "step2_title": "2. Seguimos su Vuelo",
+    "step2_desc": "Nuestros coordinadores siguen su vuelo en tiempo real. Si se adelanta o se retrasa, su conductor ya está ajustado.",
+    "step3_title": "3. Entrega Directa",
+    "step3_desc": "Reciba los detalles del conductor e instrucciones exactas de encuentro antes de aterrizar. Salga y suba al auto."
+  },
+  "difference": {
+    "title": "La Diferencia HOPAXI: Fiabilidad Basada en Datos",
+    "subtitle": "Por qué el 98% de los viajeros de negocios eligen HOPAXI sobre los taxis estándar del aeropuerto en Lima.",
+    "badge": "Estándar Ejecutivo",
+    "stat1_title": "99.2% Puntualidad",
+    "stat1_desc": "Vuelos seguidos en tiempo real.",
+    "stat2_title": "2 Min Soporte",
+    "stat2_desc": "Respuesta promedio por WhatsApp.",
+    "stat3_title": "100% Tarifa Fija",
+    "stat3_desc": "Sin tarifas dinámicas ni ocultas.",
+    "standard_taxi_title": "Taxis de App Estándar",
+    "standard_taxi_feat1_title": "Recojo Estresante",
+    "standard_taxi_feat1_desc": "Punto de encuentro confuso en zonas concurridas sin soporte humano. (Aeropuerto Lima, 2026)",
+    "standard_taxi_feat2_title": "Precios Impredecibles",
+    "standard_taxi_feat2_desc": "Tarifas dinámicas y peajes ocultos añadidos después de reservar el viaje. (Fuente: Análisis Uber/Cabify)",
+    "our_standard_title": "El Estándar HOPAXI",
+    "our_standard_feat1_title": "Entrega Coordinada",
+    "our_standard_feat1_desc": "Un coordinador dedicado lo guía a usted y a su conductor a un punto específico y seguro. (Ref: Guías de Seguridad LAP)",
+    "our_standard_feat2_title": "Garantía de Tarifa Fija",
+    "our_standard_feat2_desc": "Una cotización todo incluido compartida por WhatsApp. Sin sorpresas ni extras. (Ref: Carta de Precios Justos HOPAXI)"
+  },
+  "trust_sources": {
+    "heading": "Datos Operativos Verificados",
+    "source1": "Refuerzo de Seguridad Vial MTC Perú (2026)",
+    "source2": "Expansión Logística del Aeropuerto Jorge Chávez (Noticias LAP)",
+    "source3": "Desvíos de Acceso Puente Santa Rosa (Boletín MTC)"
+  },
+  "reviews": {
+    "title": "Con la Confianza de Viajeros, Equipos de Negocios y Familias",
+    "subtitle": "Experiencias reales de viajeros que valoran la certeza",
+    "review1_text": "\"Llegada tarde por la noche, cero estrés. Nuestro coordinador siguió el retraso y tuvo a nuestro conductor esperando exactamente donde prometieron. El precio fijo significó no tener que negociar a las 11 p.m.\"",
+    "review1_author": "Viajero de Negocios, San Francisco",
+    "review2_text": "\"Aterrizamos con dos niños y equipaje. El coordinador de HOPAXI nos recibió en llegadas con un cartel, la silla para niños estaba lista y sabíamos exactamente cuánto pagaríamos. La factura fue perfecta para nuestro informe de gastos.\"",
+    "review2_author": "Madre de dos, Toronto",
+    "review3_text": "\"Gestionar viajes de nivel ejecutivo es estresante. Con HOPAXI, reservo una vez, las confirmaciones son instantáneas, los conductores son confiables y las facturas son automáticas. He movido todas nuestras llegadas a Lima con ellos.\"",
+    "review3_author": "Asistente Ejecutiva, Nueva York"
+  },
+  "fleet": {
+    "title": "Flota y Servicio Premium",
+    "subtitle": "Vehículos confiables y protocolo profesional para cada traslado.",
+    "img1_alt": "Sedán Ejecutivo en el Aeropuerto de Lima",
+    "img1_label": "Recojo en Aeropuerto",
+    "img2_alt": "Protocolo de Conductor Profesional",
+    "img2_label": "Seguridad 24/7",
+    "img3_alt": "Asistencia con Equipaje",
+    "img3_label": "Servicio de Entrega",
+    "img4_alt": "Traslado Seguro en Ciudad",
+    "img4_label": "Confort en la Ciudad"
+  },
+  "areas": {
+    "title": "Zonas de Servicio en Lima",
+    "subtitle": "Traslados directos desde el Aeropuerto Jorge Chávez a distritos comerciales y turísticos con precios fijos y soporte de coordinador.",
+    "miraflores_name": "Taxi a Miraflores",
+    "miraflores_desc": "$24 tarifa plana · ~30 min desde el Aeropuerto de Lima",
+    "san_isidro_name": "Traslado Ejecutivo San Isidro",
+    "san_isidro_desc": "$24 tarifa plana · ~35 min desde el Aeropuerto de Lima",
+    "barranco_name": "Shuttle Aeropuerto Barranco",
+    "barranco_desc": "$24 tarifa plana · ~40 min desde el Aeropuerto de Lima",
+    "historic_name": "Centro Histórico y Cercado",
+    "historic_desc": "Cotización personalizada · recojo seguro en monumentos y hoteles"
+  },
+  "protocols": {
+    "title": "Protocolos de Seguridad y Operatividad",
+    "subtitle": "Nuestro compromiso con la seguridad de nivel ejecutivo y el mantenimiento de vehículos.",
+    "safety_title": "Protocolos de Seguridad",
+    "safety_desc": "Todos los conductores pasan por verificaciones de antecedentes y siguen un estricto protocolo de entrega en la llegada. El seguimiento GPS en tiempo real y la supervisión de coordinadores 24/7 aseguran que cada viaje sea monitoreado.",
+    "drivers_title": "Calificaciones de Conductores",
+    "drivers_desc": "Conductores profesionales con historial de manejo seguro documentado. Cada conductor completa capacitación en comunicación bilingüe y orientación de protocolo de servicio ejecutivo.",
+    "maintenance_title": "Mantenimiento Vehicular",
+    "maintenance_highest": "Estándares más altos",
+    "maintenance_desc": "Nuestra flota consiste en sedanes y camionetas de modelos recientes, sujetos a inspecciones técnicas quincenales. Aseguramos el cumplimiento total de las regulaciones de seguridad vial del MTC Perú."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "q1": "¿Cómo es HOPAXI más seguro que los taxis de aplicaciones?",
+    "a1": "HOPAXI utiliza despacho guiado por coordinadores, conductores profesionales capacitados e instrucciones de recojo previas a la llegada para reducir la incertidumbre. Usted recibe detalles claros del conductor y del encuentro antes de aterrizar.",
+    "q2": "¿Qué significa servicio centrado en la privacidad?",
+    "a2": "Solo utilizamos la información necesaria para coordinar su traslado, dar soporte a su viaje y emitir recibos/facturas. No requerimos configuraciones de perfil innecesarias para confirmar su reserva.",
+    "q3": "¿Qué tan rápido puedo confirmar una reserva?",
+    "a3": "La mayoría de las reservas se confirman en 2 minutos una vez que comparte su número de vuelo, hora de llegada y destino por WhatsApp, SMS o teléfono. Nos comprometemos a responder en ≤2 minutos durante su ventana de reserva.",
+    "q4": "¿Qué pasa si mi vuelo se retrasa?",
+    "a4": "Su conductor se ajusta a su hora real de aterrizaje sin cargo adicional. Seguimos el estado del vuelo en tiempo real y reprogramamos automáticamente el recojo para que coincida con su llegada.",
+    "q5": "¿Qué está incluido en la tarifa?",
+    "a5": "Su cotización incluye vehículo, conductor, peajes de aeropuerto, estacionamiento, asistencia con equipaje y coordinación bilingüe. Sin cargos ocultos. El precio que ve es el precio que paga.",
+    "q6": "¿Puedo cancelar mi reserva?",
+    "a6": "Sí. Cancele hasta 1 hora antes del recojo programado: reembolso total. Cancele dentro de 1 hora: cargo por servicio del 50%. Después de que comience el recojo: se cobra el total.",
+    "q7": "¿Proporcionan recibos oficiales o facturas?",
+    "a7": "Sí. Los viajeros personales reciben recibos digitales. Los clientes corporativos reciben factura oficial peruana (conforme a SUNAT) para informes de gastos comerciales.",
+    "q8": "¿Cómo sabré los detalles de mi conductor antes de aterrizar?",
+    "a8": "Antes de aterrizar, recibirá instrucciones exactas del punto de encuentro (texto + mapa) y detalles del conductor (nombre, placa del vehículo, foto)."
+  },
+  "contact": {
+    "title": "Llegue a Lima con Certeza.",
+    "subtitle": "Únase a miles de viajeros que confían en HOPAXI para el traslado al aeropuerto más seguro de Perú. Tarifa Fija de $24. Sin cargos ocultos. Confirmación instantánea por WhatsApp.",
+    "btn_whatsapp": "Reservar por WhatsApp",
+    "btn_call": "Llamar al Coordinador"
+  },
+  "footer": {
+    "desc": "Servicio de traslado seguro en el aeropuerto de Lima para viajeros de negocios y placer.",
+    "rights": "© 2026 HOPAXI Technologies. Todos los derechos reservados.",
+    "whatsapp": "WhatsApp",
+    "address": "Área Metropolitana de Lima, Perú",
+    "dispatch": "Despacho 24/7"
+  },
+  "mobile_bar": {
+    "book": "Reservar WhatsApp"
+  }
+}

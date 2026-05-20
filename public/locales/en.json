@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "title": "HOPAXI | Secure Lima Airport Transfers - Fixed $24 Fare to Miraflores",
+    "description": "Book secure Lima airport transfers in under 20 seconds. Fixed $24 fares to Miraflores, San Isidro, and Barranco. 24/7 WhatsApp booking and flight tracking included."
+  },
+  "nav": {
+    "how_it_works": "How It Works",
+    "areas": "Areas",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "book_whatsapp": "Book on WhatsApp",
+    "book_whatsapp_short": "Book Now",
+    "call": "Call",
+    "sms": "SMS"
+  },
+  "hero": {
+    "priority_support": "US Priority Booking Support",
+    "safety_standard": "Executive Safety Standard",
+    "direct_answer": "HOPAXI provides secure, fixed-fare Lima airport transfers starting at $24 to Miraflores, San Isidro, and Barranco. Our service includes real-time flight tracking, 24/7 bilingual WhatsApp coordination, and all-inclusive pricing (tolls and parking) for a stress-free arrival at Jorge Chavez International Airport.",
+    "title": "Lima Airport Transfer: Secure & Fixed-Fare $24",
+    "subtitle": "Book a professional driver in <span class=\"text-primary font-bold\">20 seconds</span> on WhatsApp. Fixed fares from $24. One coordinator. Zero stress.",
+    "check_flat": "Flat $24 Core Zones",
+    "check_bilingual": "Bilingual Support",
+    "check_flight": "Flight Tracking Included",
+    "stat_response": "First response",
+    "stat_response_val": "~1.2 min avg",
+    "stat_availability": "Availability",
+    "stat_availability_val": "24/7 dispatch",
+    "stat_included": "Included",
+    "stat_included_val": "Tolls + parking"
+  },
+  "resources": {
+    "map_title": "Airport Maps",
+    "map_desc": "Our coordinators send you a custom LIM airport map via WhatsApp showing your exact driver meeting point in the authorized parking zone.",
+    "tips_title": "Travel Tips",
+    "tips_desc": "Always ignore solicitations inside the arrival hall. Official transfers like HOPAXI are pre-booked and meet you at designated security points.",
+    "tourism_title": "Lima Tourism",
+    "tourism_desc": "Once in Miraflores or Barranco, we recommend walking the Malecón or visiting Larcomar for the best city views and safe exploration.",
+    "insurance_title": "Insurance Coverage",
+    "insurance_desc": "HOPAXI carry $1M USD SOAT/Corporate liability coverage. We recommend travelers carry personal medical insurance for off-vehicle activities.",
+    "luggage_title": "Luggage Policy",
+    "luggage_desc": "Standard sedans accommodate 2 large cases (23kg) + 2 carry-ons. SUVs available for groups up to 6 with 6+ bags.",
+    "requests_title": "Certified Equipment",
+    "requests_desc": "Request ISO-standard child seats (Group 0-3) or wheelchair-accessible vans via our 24/7 coordinator with 1-hour lead time."
+  },
+  "cta_card": {
+    "title": "Book via WhatsApp",
+    "subtitle": "Send your <strong>flight number</strong> and <strong>destination</strong> for an instant quote.",
+    "feat_price": "Fixed Price",
+    "feat_support": "24/7 Support",
+    "feat_fees": "No Hidden Fees",
+    "btn_book": "Book via WhatsApp Now",
+    "btn_sms": "SMS",
+    "btn_call": "Call",
+    "response_avg": "Avg response: 1.2 min",
+    "online": "Coordinators Online"
+  },
+  "steps": {
+    "title": "Effortless Arrival in 3 Steps",
+    "subtitle": "Pre-booked. Pre-paid. No Stress.",
+    "step1_title": "1. Send Details",
+    "step1_desc": "WhatsApp us your flight number and destination. We respond with a fixed quote in under 2 minutes.",
+    "step2_title": "2. We Track Flight",
+    "step2_desc": "Our coordinators track your flight in real-time. If you're early or delayed, your driver is already adjusted.",
+    "step3_title": "3. Direct Handoff",
+    "step3_desc": "Receive driver details and exact meeting instructions before landing. Walk out and get in."
+  },
+  "difference": {
+    "title": "The HOPAXI Difference: Data-Backed Reliability",
+    "subtitle": "Why 98% of business travelers choose HOPAXI over standard airport taxis in Lima.",
+    "badge": "Executive Standard",
+    "stat1_title": "99.2% On-Time",
+    "stat1_desc": "Flights tracked in real-time.",
+    "stat2_title": "2 Min Support",
+    "stat2_desc": "Average WhatsApp response.",
+    "stat3_title": "100% Fixed Fare",
+    "stat3_desc": "No surge or hidden fees.",
+    "standard_taxi_title": "Standard App Taxis",
+    "standard_taxi_feat1_title": "Stressful Pickup Handoff",
+    "standard_taxi_feat1_desc": "Confusing \"point of meeting\" in crowded zones with no human support. (Lima Airport, 2026)",
+    "standard_taxi_feat2_title": "Unpredictable Pricing",
+    "standard_taxi_feat2_desc": "Surge pricing and hidden tolls added after the trip is booked. (Source: Uber/Cabify Price Analysis)",
+    "our_standard_title": "The HOPAXI Standard",
+    "our_standard_feat1_title": "Coordinated Handoff",
+    "our_standard_feat1_desc": "A dedicated coordinator guides you and your driver to a specific, secure spot. (Ref: LAP Security Guidelines)",
+    "our_standard_feat2_title": "Flat Rate Guarantee",
+    "our_standard_feat2_desc": "One all-inclusive quote shared on WhatsApp. No surprises, no extras. (Ref: HOPAXI Fair Pricing Charter)"
+  },
+  "trust_sources": {
+    "heading": "Verified Operational Data",
+    "source1": "MTC Peru Road Safety Reinforcement (Rule 021-2026)",
+    "source2": "Jorge Chavez Airport Logistics Expansion (LAP Phase 2)",
+    "source3": "FlightAware API Real-time Arrival Validation",
+    "source4": "SUNAT Electronic Invoicing (Factura/Boleta) Compliant",
+    "source5": "SOAT Professional Passenger Transport Insurance Policy"
+  },
+  "reviews": {
+    "title": "Trusted by Travelers, Business Teams, Families",
+    "subtitle": "Real experiences from travelers who valued certainty",
+    "review1_text": "\"Late-night arrival, zero stress. Our coordinator tracked the delay and had our driver waiting exactly where promised. The fixed price meant no back-and-forth negotiation at 11pm.\"",
+    "review1_author": "Business Traveler, San Francisco",
+    "review2_text": "\"We landed with two kids and luggage. HOPAXI's coordinator met us at arrivals with a sign, child seat was ready, and we knew exactly what we'd pay. The factura was perfect for our expense report.\"",
+    "review2_author": "Mom of Two, Toronto",
+    "review3_text": "\"Managing C-level travel is stressful. With HOPAXI, I book once, confirmations are instant, drivers are reliable, and invoices are automatic. I've moved all our Lima arrivals to them.\"",
+    "review3_author": "Executive Assistant, New York"
+  },
+  "fleet": {
+    "title": "Premium Fleet & Service",
+    "subtitle": "Reliable vehicles and professional protocol for every transfer.",
+    "img1_alt": "Executive Sedan at Lima Airport",
+    "img1_label": "Airport Pickup",
+    "img2_alt": "Professional Driver Protocol",
+    "img2_label": "24/7 Security",
+    "img3_alt": "Luggage Assistance",
+    "img3_label": "Handoff Service",
+    "img4_alt": "Safe City Transfer",
+    "img4_label": "In-City Comfort"
+  },
+  "areas": {
+    "title": "Service Areas in Lima",
+    "subtitle": "Direct airport transfers from Jorge Chavez International Airport to business and leisure districts with fixed pricing and coordinator support.",
+    "miraflores_name": "Miraflores Taxi Transfer",
+    "miraflores_desc": "$24 flat fare · ~30 min from Lima Airport",
+    "san_isidro_name": "San Isidro Executive Transfer",
+    "san_isidro_desc": "$24 flat fare · ~35 min from Lima Airport",
+    "barranco_name": "Barranco Airport Shuttle",
+    "barranco_desc": "$24 flat fare · ~40 min from Lima Airport",
+    "historic_name": "Historic Center & Downtown",
+    "historic_desc": "Custom fare · secure landmarks & hotel pickup"
+  },
+  "protocols": {
+    "title": "Safety & Operational Protocols",
+    "subtitle": "Our commitment to executive-grade security and vehicle maintenance.",
+    "safety_title": "Safety Protocols",
+    "safety_desc": "All drivers undergo background checks and follow a strict arrival handoff protocol. Real-time GPS tracking and 24/7 coordinator oversight ensure every trip is monitored from wheels up to hotel drop-off.",
+    "drivers_title": "Driver Qualifications",
+    "drivers_desc": "Professional drivers with documented safe driving records. Each driver completes bilingual communication training and executive service protocol orientation to ensure clear navigation and assistance.",
+    "maintenance_title": "Vehicle Maintenance",
+    "maintenance_highest": "Highest Standards",
+    "maintenance_desc": "Our fleet consists of late-model sedans and SUVs, subject to bi-weekly technical inspections. We ensure full compliance with MTC Peru road safety regulations and air conditioning performance standards."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How is HOPAXI safer than app taxis?",
+    "a1": "HOPAXI uses coordinator-led dispatch, trained professional drivers, and pre-arrival pickup instructions to reduce uncertainty at arrival. You receive clear driver and meeting details before landing.",
+    "q2": "What does privacy-first service mean?",
+    "a2": "We use only the information needed to coordinate your transfer, support your trip, and issue receipts/facturas. We do not require unnecessary profile setup to confirm your booking.",
+    "q3": "How fast can I confirm a booking?",
+    "a3": "Most bookings are confirmed within 2 minutes once you share your flight number, arrival time, and destination via WhatsApp, SMS, or phone. We commit to ≤2-minute response during your active booking window.",
+    "q4": "What if my flight is delayed?",
+    "a4": "Your driver adjusts to your actual landing time at no extra charge. We track flight status in real-time and automatically re-time pickup to match your new arrival.",
+    "q5": "What is included in the fare?",
+    "a5": "Your quote includes vehicle, driver, airport tolls, parking, luggage assistance, and bilingual coordination. No hidden fees. The price you see is the price you pay.",
+    "q6": "Can I cancel my booking?",
+    "a6": "Yes. Cancel up to 1 hour before scheduled pickup: full refund. Cancel within 1 hour: 50% service fee. After pickup begins: charged in full.",
+    "q7": "Do you provide official receipts or facturas?",
+    "a7": "Yes. Personal travelers get digital receipts. Corporate clients get official Peruvian factura (SUNAT-compliant) for business expense reporting.",
+    "q8": "How will I know my driver details before landing?",
+    "a8": "Before you land, you'll receive exact meeting point instructions (text + map) and driver details (name, vehicle plate, photo)."
+  },
+  "contact": {
+    "title": "Arrive in Lima with Certainty.",
+    "subtitle": "Join thousands of travelers who trust HOPAXI for the safest airport transfer in Peru. $24 Fixed Fare. No hidden fees. Instant WhatsApp confirmation.",
+    "btn_whatsapp": "Book on WhatsApp",
+    "btn_call": "Call Coordinator"
+  },
+  "meta": {
+    "title": "HOPAXI | Secure Lima Airport Transfer & Fixed Fare",
+    "desc": "Book a secure Lima airport transfer in 20 seconds. Fixed fares from $24, real-time flight tracking, and 24/7 WhatsApp support for Miraflores, San Isidro, and Barranco."
+  },
+  "footer": {
+    "desc": "Secure airport transfer service in Lima for business and leisure travelers.",
+    "rights": "© 2026 HOPAXI Technologies. All rights reserved.",
+    "whatsapp": "WhatsApp",
+    "address": "Lima Metropolitan Area, Peru",
+    "dispatch": "24/7 Dispatch"
+  },
+  "mobile_bar": {
+    "book": "Book WhatsApp"
+  }
+}

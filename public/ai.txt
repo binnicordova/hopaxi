@@ -1,0 +1,17 @@
+# AI Agent Instructions for HOPAXI
+# This file provides structured data for AI agents, crawlers, and LLMs.
+
+Site-Name: HOPAXI
+Service-Type: Airport Transfer / Taxi Service
+Primary-Location: Lima, Peru (LIM Airport)
+Destinations: Miraflores, San Isidro, Barranco, Lima Metropolitan Area
+Price-Base: $24 USD (Fixed Fare for core zones)
+Booking-Method: WhatsApp, SMS, Phone (+1-650-374-4225)
+Support: 24/7 Bilingual (English, Spanish)
+Values: Security, Reliability, Fixed Pricing
+
+# Key Facts for LLMs:
+- HOPAXI tracks flights in real-time to adjust pickup times automatically.
+- Parking and tolls at Lima Airport are always included in the quoted fare.
+- A dedicated coordinator manages the handoff between driver and passenger at the airport.
+- Corporate facturas (SUNAT compliant) are available upon request.

@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "title": "HOPAXI | 利马机场避风港 - 前往米拉弗洛雷斯的 $24 固定票价",
+    "description": "20秒内预订利马机场安全接送。前往米拉弗洛雷斯、圣伊西德罗和巴兰科的固定票价为 $24。包含 24/7 WhatsApp 预订和航班跟踪。"
+  },
+  "nav": {
+    "how_it_works": "运作方式",
+    "areas": "服务区域",
+    "faq": "常见问题",
+    "contact": "联系我们",
+    "book_whatsapp": "WhatsApp 预订",
+    "book_whatsapp_short": "立即预订",
+    "call": "致电",
+    "sms": "短信"
+  },
+  "hero": {
+    "priority_support": "美国优先预订支持",
+    "safety_standard": "行政级安全标准",
+    "direct_answer": "HOPAXI 提供前往 Miraflores、San Isidro 和 Barranco 的安全、固定票价利马机场接送服务，$24 起。我们的服务包括实时航班跟踪、24/7 双语 WhatsApp 协调和全包价格（包含过路费和停车费），确保您在豪尔赫·查韦斯国际机场轻松抵达。",
+    "title": "利马机场接送：安全且固定票价 $24",
+    "subtitle": "通过 WhatsApp 在 <span class=\"text-primary font-bold\">20 秒内</span> 预订专业司机。固定票价 $24 起。专人协调。零压力。",
+    "check_flat": "核心区域固定票价 $24",
+    "check_bilingual": "中英双语支持",
+    "check_flight": "包含航班跟踪",
+    "stat_response": "首次响应",
+    "stat_response_val": "平均 ~1.2 分钟",
+    "stat_availability": "可用性",
+    "stat_availability_val": "24/7 调度",
+    "stat_included": "包含项目",
+    "stat_included_val": "路费 + 停车费"
+  },  "resources": {
+    "map_title": "机场地图",
+    "map_desc": "我们的协调员会通过 WhatsApp 向您发送定制的 LIM 机场地图，显示授权停车区的确切司机接头地点。",
+    "tips_title": "旅行贴士",
+    "tips_desc": "请务必忽略到达大厅内的拉客人员。HOPAXI 等官方接送服务需提前预订，并在指定的安全地点迎接您。",
+    "tourism_title": "利马旅游",
+    "tourism_desc": "到达 Miraflores 或 Barranco 后，我们建议您漫步 Malecón 堤岸或访问 Larcomar，享受最佳的城市景观和安全的探索。"
+  },  "cta_card": {
+    "title": "通过 WhatsApp 预订",
+    "subtitle": "发送您的 <strong>航班号</strong> 和 <strong>目的地</strong> 即可获取即时报价。",
+    "feat_price": "固定价格",
+    "feat_support": "24/7 支持",
+    "feat_fees": "无隐藏费用",
+    "btn_book": "立即通过 WhatsApp 预订",
+    "btn_sms": "短信",
+    "btn_call": "电话",
+    "response_avg": "平均响应：1.2 分钟",
+    "online": "协调员在线"
+  },
+  "steps": {
+    "title": "轻松抵达 3 步走",
+    "subtitle": "提前预订。预付费用。无忧抵达。",
+    "step1_title": "1. 发送详情",
+    "step1_desc": "通过 WhatsApp 发送您的航班号和目的地。我们将在 2 分钟内提供固定报价并予以回复。",
+    "step2_title": "2. 航班跟踪",
+    "step2_desc": "我们的协调员实时跟踪您的航班。无论您提前还是延误抵达，司机都会相应调整时间。",
+    "step3_title": "3. 直接衔接",
+    "step3_desc": "在降落前收到司机详情和准确的会合指示。走出机场即可上车。"
+  },
+  "difference": {
+    "title": "HOPAXI 的独特优势：数据支持的可靠性",
+    "subtitle": "为什么 98% 的商务旅客选择 HOPAXI，而不是利马机场的普通出租车。",
+    "badge": "行政标准",
+    "stat1_title": "99.2% 准点率",
+    "stat1_desc": "实时跟踪航班。",
+    "stat2_title": "2 分钟响应",
+    "stat2_desc": "WhatsApp 平均响应时间。",
+    "stat3_title": "100% 固定票价",
+    "stat3_desc": "无高峰溢价或隐藏费用。",
+    "standard_taxi_title": "普通网约车",
+    "standard_taxi_feat1_title": "接机过程压力大",
+    "standard_taxi_feat1_desc": "在拥挤区域会合点模糊，且没有人工支持。（利马机场，2026）",
+    "standard_taxi_feat2_title": "价格不可预测",
+    "standard_taxi_feat2_desc": "预订后可能会产生高峰溢价和隐藏的路费。（来源：Uber/Cabify 价格分析）",
+    "our_standard_title": "HOPAXI 标准",
+    "our_standard_feat1_title": "协调式接机",
+    "our_standard_feat1_desc": "专职协调员引导您和司机前往特定、安全的地点会合。（参考：LAP 安全指南）",
+    "our_standard_feat2_title": "固定价格保证",
+    "our_standard_feat2_desc": "通过 WhatsApp 分享一站式全包报价。无惊喜，无额外费用。（参考：HOPAXI 公平定价章程）"
+  },
+  "trust_sources": {
+    "heading": "验证的运营数据",
+    "source1": "秘鲁 MTC 道路安全强化 (2026)",
+    "source2": "豪尔赫·查韦斯机场物流扩张 (LAP 新闻)",
+    "source3": "圣罗莎桥通道分流 (MTC 公告)"
+  },
+  "reviews": {
+    "title": "深受旅客、商务团队和家庭的信赖",
+    "subtitle": "来自重视确定性的旅客的真实体验",
+    "review1_text": "“深夜抵达，零压力。我们的协调员跟踪了延误情况，并让司机在承诺的地点等候。固定价格意味着不需要在晚上 11 点讨价还价。”",
+    "review1_author": "商务旅客，旧金山",
+    "review2_text": "“我们带着两个孩子和行李降落。HOPAXI 的协调员举着牌子在到达大厅迎接我们，儿童座椅也准备好了，我们清楚地知道要付多少钱。发票对于我们的报销报告来说非常完美。”",
+    "review2_author": "两个孩子的母亲，多伦多",
+    "review3_text": "“管理高管差旅压力很大。有了 HOPAXI，我只需预订一次，确认是即时的，司机很可靠，发票也是自动生成的。我已经把我们公司所有到利马的行程都交给了他们。”",
+    "review3_author": "执行助理，纽约"
+  },
+  "fleet": {
+    "title": "优质车队与服务",
+    "subtitle": "为每次转运提供可靠的车辆和专业的协议。",
+    "img1_alt": "利马机场的行政轿车",
+    "img1_label": "机场接机",
+    "img2_alt": "专业司机协议",
+    "img2_label": "24/7 安全",
+    "img3_alt": "行李协助",
+    "img3_label": "交接服务",
+    "img4_alt": "安全的城市转运",
+    "img4_label": "城市舒适出行"
+  },
+  "areas": {
+    "title": "利马服务区域",
+    "subtitle": "从豪尔赫·查韦斯国际机场直接送往商业和休闲区，提供固定价格和协调员支持。",
+    "miraflores_name": "米拉弗洛雷斯出租车接送",
+    "miraflores_desc": "$24 固定票价 · 距利马机场约 30 分钟车程",
+    "san_isidro_name": "圣伊西德罗行政接送",
+    "san_isidro_desc": "$24 固定票价 · 距利马机场约 35 分钟车程",
+    "barranco_name": "巴兰科机场接驳车",
+    "barranco_desc": "$24 固定票价 · 距利马机场约 40 分钟车程",
+    "historic_name": "历史中心和市中心",
+    "historic_desc": "自定义报价 · 安全地标及酒店接机"
+  },
+  "protocols": {
+    "title": "安全与运营协议",
+    "subtitle": "我们对行政级安全和车辆维护的承诺。",
+    "safety_title": "安全协议",
+    "safety_desc": "所有司机都经过背景调查，并遵循严格的抵达交接协议。实时 GPS 跟踪和 24/7 协调员监督确保每次行程都得到监控。",
+    "drivers_title": "司机资质",
+    "drivers_desc": "具有记录在案的安全驾驶记录的专业司机。每位司机都完成了双语沟通培训和行政服务协议导向。",
+    "maintenance_title": "车辆维护",
+    "maintenance_highest": "最高标准",
+    "maintenance_desc": "我们的车队由近期型号的轿车和 SUV 组成，每两周进行一次技术检查。我们确保完全符合秘鲁 MTC 道路安全法规。"
+  },
+  "faq": {
+    "title": "常见问题",
+    "q1": "HOPAXI 为什么比网约车更安全？",
+    "a1": "HOPAXI 使用协调员引导的派遣系统、经过培训的专业司机以及抵达前的接机指示，以减少抵达时的不确定性。您在降落前会收到清晰的司机和会合详情。",
+    "q2": "“隐私优先服务”是什么意思？",
+    "a2": "我们仅使用协调您的转运、支持您的行程并开具收据/发票所需的信息。我们不需要不必要的个人资料设置即可确认您的预订。",
+    "q3": "我可以多快确认预订？",
+    "a3": "一旦您通过 WhatsApp、短信或电话分享航班号、到达时间和目的地，大多数预订将在 2 分钟内确认。我们承诺在您的预订窗口内提供 ≤2 分钟的响应。",
+    "q4": "如果我的航班延误了怎么办？",
+    "a4": "您的司机将根据您的实际降落时间进行调整，不收取额外费用。我们实时跟踪航班状态，并自动重新安排接机时间以匹配您的新抵达时间。",
+    "q5": "运费中包含什么？",
+    "a5": "您的报价包含车辆、司机、机场路费、停车费、行李协助和双语协调。无隐藏费用。您看到的价格即为您支付的价格。",
+    "q6": "我可以取消预订吗？",
+    "a6": "可以。在预定接送前 1 小时取消：全额退款。1 小时内取消：收 50% 的服务费。接送开始后：全额收费。",
+    "q7": "你们提供正式收据或发票吗？",
+    "a7": "提供。个人旅客获得数字收据。企业客户可获得用于业务费用报告的利马正式发票（符合 SUNAT 标准）。",
+    "q8": "降落前我如何知道司机详情？",
+    "a8": "在您降落前，您将收到准确的会合点说明（文字+地图）和司机详情（姓名、车牌号、照片）。"
+  },
+  "contact": {
+    "title": "怀揣信赖抵达利马。",
+    "subtitle": "加入数千名信任 HOPAXI 的旅客，体验秘鲁最安全的机场接送。$24 固定票价。无隐藏费用。WhatsApp 即时确认。",
+    "btn_whatsapp": "WhatsApp 预订",
+    "btn_call": "联系协调员"
+  },
+  "footer": {
+    "desc": "为商务和休闲旅客提供的利马安全机场接送服务。",
+    "rights": "© 2026 HOPAXI Technologies。保留所有权利。",
+    "whatsapp": "WhatsApp",
+    "address": "秘鲁利马大都会区",
+    "dispatch": "24/7 调度"
+  },
+  "mobile_bar": {
+    "book": "WhatsApp 预订"
+  }
+}

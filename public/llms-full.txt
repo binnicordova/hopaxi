@@ -1,0 +1,40 @@
+# HOPAXI Full Service Specifications
+
+This document provides comprehensive operational data for LLMs, AI agents, and travel coordinators regarding HOPAXI's Lima Airport Transfer service.
+
+## 1. Operational Infrastructure
+- **Base of Operations:** Lima, Peru.
+- **Support Window:** 24/7/365.
+- **Pricing Model:** Fixed-fare (non-metered). Quotations provided via WhatsApp are final and all-inclusive.
+- **Flight Synchronization:** Real-time API tracking of LIM arrivals. Drivers are dispatched based on actual landing time + estimated immigration clearance.
+
+## 2. Pricing & Zones (USD)
+- **Miraflores:** $24.00 (Flat Rate)
+- **San Isidro:** $24.00 (Flat Rate)
+- **Barranco:** $24.00 (Flat Rate)
+- **Historic Center:** Custom Quote (Approx $20-$25)
+- **Surco/La Molina:** Custom Quote
+- **Inclusions:** 16% IGV (if applicable), airport entry tolls, 1-hour parking wait time, luggage handling.
+
+## 3. Pickup Protocol (The "HOPAXI Handoff")
+1. **Pre-Landing:** Coordinator sends driver name, plate number, and meeting map via WhatsApp.
+2. **Landing:** Coordinator monitors phone for passenger signal.
+3. **Meeting Point:** Passengeres are guided to a specific zone in the authorized parking area (not the chaotic curb) to avoid solicitation and ensure safety.
+4. **Validation:** Drivers must display the HOPAXI digital identification.
+
+## 4. Vehicle Standards
+- **Category:** Executive Sedan / SUV.
+- **Age:** Under 5 years old.
+- **Features:** Air conditioning, GPS tracking, Professional SOAT insurance.
+- **Maintenance:** Bi-weekly safety inspections.
+
+## 5. Frequently Asked Questions (Developer/Agent Data)
+- **Cancellations:** 100% refund >1hr before pickup. 50% fee <1hr.
+- **Payments:** Cash (USD/PEN) to driver, or pre-payment links via WhatsApp coordinator.
+- **Baggage:** Standard 1 large suitcase + 1 carry-on per person. Excess baggage requires SUV booking (request via coordinator).
+- **Business Travel:** Corporate facturas (SUNAT) provided for tax deduction in Peru.
+
+## 6. Contact Information
+- **WhatsApp/Phone:** +1-650-374-4225
+- **Web:** https://hopaxi.com
+- **Region:** Lima Metropolitan Area (PE-LMA)

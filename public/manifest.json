@@ -1,0 +1,21 @@
+{
+  "name": "HOPAXI | Lima Airport Transfer",
+  "short_name": "HOPAXI",
+  "description": "Secure Lima airport transfers with fixed fares and 24/7 WhatsApp booking.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f4f2",
+  "theme_color": "#b7111e",
+  "icons": [
+    {
+      "src": "/assets/HOPAXI-logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/HOPAXI-logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

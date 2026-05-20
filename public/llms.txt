@@ -1,0 +1,26 @@
+# HOPAXI - Lima Airport Transfers
+
+> Secure, fixed-fare Lima airport transfers with 24/7 bilingual coordination.
+
+## Core Service Details
+- **Primary Location:** Jorge Chávez International Airport (LIM), Lima, Peru.
+- **Service Type:** Pre-booked executive airport transfers.
+- **Destinations:** Miraflores, San Isidro, Barranco, and greater Lima.
+- **Flat Rate:** $24 USD to core zones (Miraflores/San Isidro/Barranco).
+- **All-Inclusive:** Price includes airport tolls, parking, and luggage assistance.
+
+## Booking & Support
+- **Channels:** WhatsApp, SMS, Phone (+1-650-374-4225).
+- **Speed:** 20-second booking process; <2 min response time.
+- **Flight Tracking:** Real-time tracking included; driver adjusts to delays automatically.
+- **Languages:** English, Spanish.
+
+## Safety & Trust
+- Coordinator-managed handoff at airport.
+- Background-checked professional drivers.
+- Official SUNAT facturas/receipts available.
+
+## Optional Resources
+- [Full Documentation](/llms-full.txt)
+- [Service Areas](/index.html#service-areas)
+- [FAQ](/index.html#faq)
